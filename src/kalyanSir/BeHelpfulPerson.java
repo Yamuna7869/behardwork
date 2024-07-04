@@ -7,6 +7,8 @@ public class BeHelpfulPerson {
 		System.out.println("our main agenda is to give core functionalities"
 				+ " to students like primary colours");
 		System.out.println("Arif is saddist person");
+		System.out.println("Arif is a psycho");
+		System.out.printlu("Arif is a criminal");
 	}
 
 }
